@@ -43,16 +43,6 @@ It provides comprehensive support for both **Page Replacement** and **CPU Schedu
 
 ---
 
-## 📷 Sample Screenshots
-
-> _You can add these in the GitHub README file_  
-- Home screen with mode selection  
-- CPU Scheduling with Gantt chart output  
-- Page replacement simulation with frame table  
-- Algorithm suggestion modal with highlights  
-
----
-
 ## 💻 How to Run Locally
 
 1. Clone the repository:
