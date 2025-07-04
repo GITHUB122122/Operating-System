@@ -47,5 +47,5 @@ It provides comprehensive support for both **Page Replacement** and **CPU Schedu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dai-29/operatingSystem.git
+git clone https://github.com/GITHUB122122/Operating-System
 cd operatingSystem
